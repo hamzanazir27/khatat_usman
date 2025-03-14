@@ -820,6 +820,9 @@ body.rtl .close-modal {
 }
 
 @media (max-width: 576px) {
+  .primary-btn {
+    margin-bottom: 10px;
+  }
   .section-header h2 {
     font-size: 30px;
   }
